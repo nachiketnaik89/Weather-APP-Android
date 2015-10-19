@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/nachiketnaik/AndroidStudioProjects/Stormy/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/nachiketnaik/AndroidStudioProjects/Stormy/app/build/intermediates/pre-dexed/debug/classes-fe482e5d413515be3d69e4195eb2d8942e502680.jar" />
+    </item>
+    <item
+        jar="/Users/nachiketnaik/AndroidStudioProjects/Stormy/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/nachiketnaik/AndroidStudioProjects/Stormy/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-5a36d92f33c62f2abb82282df8493ba5d187bf95.jar" />
+    </item>
+    <item
+        jar="/Users/nachiketnaik/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/nachiketnaik/AndroidStudioProjects/Stormy/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-27099f930d50c3ef5b14640726f246b6fde966ec.jar" />
+    </item>
+    <item
+        jar="/Users/nachiketnaik/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/nachiketnaik/AndroidStudioProjects/Stormy/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-17d1e4d49286e9761b4665913bc964c9f6bdb5ba.jar" />
+    </item>
+    <item
+        jar="/Users/nachiketnaik/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/nachiketnaik/AndroidStudioProjects/Stormy/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-421d3a29f7e60c45f723df2da8213662c2ec26d0.jar" />
+    </item>
+    <item
+        jar="/Users/nachiketnaik/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/nachiketnaik/AndroidStudioProjects/Stormy/app/build/intermediates/pre-dexed/debug/okio-1.6.0-30b32307909f41e205557303995f22692e3fc9d9.jar" />
+    </item>
+    <item
+        jar="/Users/nachiketnaik/AndroidStudioProjects/Stormy/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/nachiketnaik/AndroidStudioProjects/Stormy/app/build/intermediates/pre-dexed/debug/classes-03a9f4e5f47000da258f474d6fbb0f419b7890b4.jar" />
+    </item>
+    <item
+        jar="/Users/nachiketnaik/AndroidStudioProjects/Stormy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/nachiketnaik/AndroidStudioProjects/Stormy/app/build/intermediates/pre-dexed/debug/classes-4d92cdbf85f21d9a8920ae7d193668d8d0eba5fb.jar" />
+    </item>
+
+</items>
